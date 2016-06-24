@@ -1,0 +1,2 @@
+# Appointments
+Basic exception handling.
